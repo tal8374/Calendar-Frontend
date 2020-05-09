@@ -1,0 +1,10 @@
+.description {
+    width: 100%;
+    height: 15vh !important;
+}
+
+.buttonsGroup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
